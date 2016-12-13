@@ -6,6 +6,8 @@ import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.data.elasticsearch.core.ElasticsearchTemplate;
 import org.springframework.data.elasticsearch.repository.config.EnableElasticsearchRepositories;
 
+import static org.elasticsearch.node.NodeBuilder.nodeBuilder;
+
 /**
  * Created by asus on 2016/12/13.
  */
