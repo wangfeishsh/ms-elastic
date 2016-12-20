@@ -1,7 +1,7 @@
 spring:
   data:
     elasticsearch:
-      cluster-nodes: localhost:9300
+#      cluster-nodes: localhost:9300
       cluster-name: elasticsearch
     repositories:
       enabled: true
